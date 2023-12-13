@@ -1,0 +1,9 @@
+We begin assembling the Arduino system by first selecting the Arduino UNO type using the Tinkercad system.
+In this we select the items necessary for assembly, such as:
+* Colorful LEDs
+* "PIR" sensor
+*LCD Display
+*Piezo
+* flash LEDs
+
+However, as it is a prototype, many other features can be used in the final product.
